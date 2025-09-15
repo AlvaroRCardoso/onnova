@@ -26,7 +26,6 @@ export default function Footer() {
             <h3 className="font-semibold mb-4">Serviços</h3>
             <ul className="space-y-2 text-gray-600">
               <li>Desenvolvimento Web</li>
-              <li>Design UI/UX</li>
               <li>Otimização SEO</li>
               <li>Suporte online</li>
             </ul>
