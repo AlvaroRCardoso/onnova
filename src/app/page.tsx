@@ -1,6 +1,6 @@
 'use client';
 
-import Cta from '@/components/sections/CTA';
+import Cta from '@/components/sections/Cta';
 import Footer from '@/components/sections/Footer';
 import Header from '@/components/sections/Header';
 import Hero from '@/components/sections/Hero';
