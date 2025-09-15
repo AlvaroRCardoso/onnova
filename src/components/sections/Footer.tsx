@@ -34,7 +34,7 @@ export default function Footer() {
         </div>
 
         <div className="border-t border-gray-200 mt-8 pt-8 text-center text-gray-600">
-          <p>&copy; 2025 Onnova. Todos os direitos reservados.</p>
+          <p>Todos os direitos reservados &copy; 2025 Onnova.</p>
         </div>
       </div>
     </footer>
